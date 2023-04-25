@@ -19,7 +19,7 @@
 }
 .escola{
     background-image: linear-gradient(#b30c97,#df7e8e);
-    color: white;
+    color: rgb(68, 66, 66);
     display: flex;
     justify-content: center;
     align-items: center;
