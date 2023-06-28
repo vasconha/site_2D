@@ -26,7 +26,7 @@ margin: 0;
     padding: 24px 0;
 }
 .escola-div-conteudo{
-    width: 40%;
+    width: 20%;
    
 }
 .escola-titulo{
@@ -34,4 +34,8 @@ margin: 0;
 } 
 .pimentaimagem{
     width: 35%;
+}
+
+.escola-texto-um{
+    font-size: 20px;
 }
