@@ -26,7 +26,7 @@ margin: 0;
     padding: 24px 0;
 }
 .escola-div-conteudo{
-    width: 20%;
+    width: 10%;
    
 }
 .escola-titulo{
@@ -38,4 +38,7 @@ margin: 0;
 
 .escola-texto-um{
     font-size: 20px;
+}
+.escola-texto-dois{
+    width: 20px;
 }
